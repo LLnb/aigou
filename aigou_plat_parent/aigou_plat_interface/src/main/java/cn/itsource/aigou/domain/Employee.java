@@ -2,6 +2,8 @@ package cn.itsource.aigou.domain;
 
 public class Employee {
     private  Long id;
+
+
     private String username;
 
     private  String password;
